@@ -7,7 +7,7 @@ Version: 0.1.0
 Author: Parth Shiras <parthshiras@gmail.com>
 Maintainer: Parth Shiras <parthshiras@gmail.com>
 Description: Different methods for cluster analysis including k-means clustering
-    and heirarchial clustering.
+    and heirarchical clustering.
 LazyData: TRUE
 Depends:
     R(>= 3.2.5)
